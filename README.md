@@ -1,10 +1,10 @@
-### <div align="center">I'm Neimat, a frontend developer 👨‍💻 </div>  
+### <div align="center">I'm Neimat, a Backend developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently enhancing my problem-solving skill  
+- 🔭 I’m currently enhancing my skill in Professional and Personal Effectiveness  
   
 
-- 🌱 I’m currently learning React   
+- 🌱 I’m currently learning new technologies   
   
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/neimat-soliman)  
